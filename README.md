@@ -8,7 +8,7 @@ able to login or register themselves on the website for room reservation. Detail
 such as single room, double room or deluxe room is given on this website.The customer have to choose category of 
 rooms, quantity of rooms and select reservation duration. Customer will also can review the hotel.
 A food corner is added in this project to show the available foods in the hotel.
-> <img src="Images/Capture.png" width="200"> <img src="Images/Capture2.jpg" width="200">
+> <img src="Images/Capture.PNG" width="200"> <img src="Images/Capture2.PNG" width="200">
 
 ## Features
 1. Login
