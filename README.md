@@ -1,7 +1,7 @@
 ## Website For Hotel Radisson
 This is a demo website for Hotel Radisson including some basic features.
 
-##Introduction
+## Introduction
 In this project, i designed and implemented a website for Hotel Radisson.There are two parts of this website.
 One is for hotel booking and another is for food corner. I focused mainly on hotel booking. Customer will 
 able to login or register themselves on the website for room reservation. Details of different kinds of room 
